@@ -2,7 +2,7 @@
 
 * [Java](README.md)
   * [Java基础](all\_notes/java\_jichu/README.md)
-    * [1.Java变量](all\_notes/java\_jichu/1.java-bian-liang.md)
+    * [Java变量](all\_notes/java\_jichu/java-bian-liang.md)
   * [JavaWeb](all\_notes/javaweb.md)
   * [前端技术栈](all\_notes/qian-duan-ji-shu-zhan.md)
   * [主流框架](all\_notes/zhu-liu-kuang-jia.md)
