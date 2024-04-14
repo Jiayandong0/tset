@@ -2,13 +2,36 @@
 
 ## 1.Java诞生的小故事
 
-**Java官网：**[**https://www.java.com/zh-CN/**](https://www.java.com/zh-CN/)
+* **Java官网：**[**https://www.java.com/zh-CN/**](https://www.java.com/zh-CN/)
 
-<figure><img src=".gitbook/assets/WechatIMG388.jpg" alt=""><figcaption></figcaption></figure>
+> * 1990sun公司启动绿色计划
+> * 1992创建oak(橡树)语言->java
+> * 1994 gosling参加硅谷大会演示java功能，震惊世界
+> * 1995sun正式发布java第1个版本
+> * 2009年，甲骨文公司宣布收购Sun
+> * 2011,发布java7
+> *   其它java版本发布详情&#x20;
+>
+>     [https://www.oracle.com/java/technologies/java-se-support-roadmap.html](https://www.oracle.com/java/technologies/java-se-support-roadmap.html)
+
+*   Java之父
+
+    > * **Java之父是詹姆斯·高斯林(James Gosling)**
+    > *
+    >
+    >     <figure><img src=".gitbook/assets/image.png" alt="" width="242"><figcaption></figcaption></figure>
 
 ## 2.Java 技术体系平台
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+> *   Java SE(Java Standard Edition) **标准版**
+>
+>     支持面向桌面级应用（如Windows下的应用程序）的Java平台，提供了完整的Java核心 API，此版本以前称为J2SE&#x20;
+> *   Java EE(Java Enterprise Edition) **企业版**
+>
+>     是为开发企业环境下的应用程序提供的一套解决方案。该技术体系中包含的技术如：Servlet、Jsp等，主要针对于Web应用程序开发。版本以前称为J2EE&#x20;
+> *   Java ME(Java Micro Edition) **小型版**
+>
+>     支持Java程序运行在移动终端（手机、PDA),上的平台，对Java API有所精简，并加入了针对移动终端的支特，此版本以前称为J2ME
 
 ## 3.Java重要特点
 
@@ -18,7 +41,7 @@
 >
 >
 >
->     <figure><img src=".gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+>     <figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 > 4. Java 语言是解释型的\[了解]&#x20;
 >    * 解释性语言：javascript,PHP, java&#x20;
 >    * 编译性语言: c / c++&#x20;
