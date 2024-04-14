@@ -6,6 +6,8 @@
 
 ## 2.使用注意事项
 
+[goto：VarDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/javacode/chapter03/VarDetail.java)
+
 > 1. 变量表示内存中的一个存储区域\[不同的变量，类型不同，占用的空间大小不同比如：int4个字节，double就是8个字节]
 > 2. 该区域有自己的名称\[变量名]和类型\[数据类型]
 > 3. 变量必须先声明，后使用，即有顺序

@@ -1,12 +1,14 @@
 # Java基础
 
+[goto：javacode](https://gitee.com/jia-yan\_dong/code/tree/master/javacode)
+
 ## 1.Java 运行机制及运行过程&#x20;
 
-> &#x20;语言的特点：跨平台性&#x20;
+> &#x20;语言的特点：<mark style="color:yellow;">跨平台性</mark>&#x20;
 >
 >
 >
-> ## <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
+> ## <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 ## 2.Java核心机制-Java 虚拟机 \[JVM java virtual machine]&#x20;
 
@@ -20,17 +22,17 @@
 
 * JDK 基本介绍
 
-> 1. JDK 的全称(Java Development Kit Java 开发工具包) JDK = JRE + java 的开发工具 \[java, javac,javadoc,javap 等]
-> 2. JDK 是提供给 Java 开发人员使用的，其中包含了 java 的开发工具，也包括了 JRE。所以安装了 JDK，就不用在单独 安装 JRE 了。
+> 1. JDK 的全称(Java Development Kit Java 开发工具包) JDK = JRE + java 的开发工具 \[java、javac、javadoc、javap 等]
+> 2. JDK 是提供给 Java 开发人员使用的，其中包含了 java 的开发工具，也包括了 JRE。所以安装了 JDK，就不用在单独 安装 JRE 了
 
 * JRE 基本介绍
 
-> 1. JRE(Java Runtime Environment Java 运行环境) JRE = JVM + Java 的核心类库\[类]
+> 1. JRE(Java Runtime Environment Java 运行环境) JRE = JVM + Java 的核心类库(类)
 > 2. 包括 Java 虚拟机(JVM Java Virtual Machine)和 Java 程序所需的核心类库等，如果想要运行一个开发好的 Java 程序， 计算机中只需要安装 JRE 即可。
 
-* JDK、JRE 和 JVM 的包含关系
+* **JDK、JRE 和 JVM 的包含关系**
 
-> 1. JDK = JRE + 开发工具集（例如 Javac,java 编译工具等)
+> 1. JDK = JRE + 开发工具集（例如 Javac、java 编译工具等)
 > 2. JRE = JVM + Java SE 标准类库（java 核心类库）
 > 3. 如果只想运行开发好的 .class 文件 只需要 JRE
 
