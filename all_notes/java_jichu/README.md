@@ -41,3 +41,51 @@
 > 1. JDK = JRE + 开发工具集（例如 Javac,java 编译工具等)
 > 2. JRE = JVM + Java SE 标准类库（java 核心类库）
 > 3. 如果只想运行开发好的 .class 文件 只需要 JRE
+
+## 4.Java代码规范
+
+> 1. 类、方法的注释，要以javadoc的方式来写&#x20;
+> 2. 非Java Doc的注释，往往是给代码的维护者看的，着重告述读者为什么这样写，如何修改，注意什么问题等
+> 3. 运算符和=两边习惯性各加一个空格。比如：2 + 4 \* 5 + 345 - 89&#x20;
+> 4. 源文件使用utf-8编码&#x20;
+> 5. 行宽度不要超过80字符
+> 6. 代码编写**次行风格**和**行尾风格**
+
+{% tabs %}
+{% tab title="次行风格" %}
+{% code lineNumbers="true" %}
+```java
+public class Demo
+{
+    public static void main(String[] args)
+    {
+        if(true)
+        {
+            System.out.println("true");
+        }else
+        {
+            System.out.println("false");
+        }
+    }
+}
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="行尾风格" %}
+{% code lineNumbers="true" %}
+```java
+public class Demo{
+    public static void main(String[] args){
+        if(true){
+            System.out.println("true");
+        }else{
+            System.out.println("false");
+        }
+    }
+}
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
+

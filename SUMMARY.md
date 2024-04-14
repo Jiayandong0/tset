@@ -2,7 +2,8 @@
 
 * [Java](README.md)
   * [Java基础](all\_notes/java\_jichu/README.md)
-    * [Java变量](all\_notes/java\_jichu/java-bian-liang.md)
+    * [注释](all\_notes/java\_jichu/zhu-shi.md)
+    * [变量](all\_notes/java\_jichu/bian-liang.md)
   * [JavaWeb](all\_notes/javaweb.md)
   * [前端技术栈](all\_notes/qian-duan-ji-shu-zhan.md)
   * [主流框架](all\_notes/zhu-liu-kuang-jia.md)
@@ -10,3 +11,4 @@
   * [必学必会技术栈](all\_notes/bi-xue-bi-hui-ji-shu-zhan.md)
 * [Python](python.md)
 * [Linux](linux.md)
+* [Dos](dos.md)
