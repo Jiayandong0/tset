@@ -13,7 +13,7 @@
     > * byte -> short -> int -> long -> float -> double
 
 
-*   自动类型转换注意和细节 [goto：AutoConvertDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/javacode/chapter03/AutoConvertDetail.java)
+*   自动类型转换注意和细节 [goto：AutoConvertDetail.java](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter03/AutoConvertDetail.java)
 
     > 1. 有多种类型的数据混合运算时，系统首先自动将所有数据 转换成容量最大的那种数据类型，然后再进行计算。
     > 2. 当我们把精度（容量）大的数据类型赋值给精度（容量）小的数据类型时，就会报错，反之就会进行自动类型转换。

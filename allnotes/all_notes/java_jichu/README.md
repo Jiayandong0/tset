@@ -1,6 +1,6 @@
 # Java基础
 
-[goto：javacode](https://gitee.com/jia-yan\_dong/code/tree/master/javacode)
+[goto：javacode](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode)
 
 ## 1.Java 运行机制及运行过程&#x20;
 
