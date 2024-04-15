@@ -9,7 +9,7 @@
 
 *   流程图
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt="" width="219"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="219"><figcaption></figcaption></figure>
 
 
 
@@ -28,7 +28,7 @@
     {% endcode %}
 *   流程图
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.双分支
 
@@ -45,7 +45,7 @@
     {% endcode %}
 *   流程图
 
-    <figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="477"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
 ### 3.多分支
 
@@ -66,7 +66,7 @@
     {% endcode %}
 *   流程图
 
-    <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
@@ -111,7 +111,7 @@
     {% endcode %}
 *   流程图
 
-    <figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 *   注意事项和细节讨论  [goto：SwitchDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter05/SwitchDetail.java)

@@ -8,7 +8,7 @@
 >
 >
 >
-> ## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
+> ## <img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" data-size="original">
 
 ## 2.Java核心机制-Java 虚拟机 \[JVM java virtual machine]&#x20;
 
@@ -37,6 +37,8 @@
 > 3. 如果只想运行开发好的 .class 文件 只需要 JRE
 
 ## 4.Java代码规范
+
+goto：[java代码规范.docx](../../files/java/java-dai-ma-gui-fan.md)
 
 > 1. 类、方法的注释，要以javadoc的方式来写&#x20;
 > 2. 非Java Doc的注释，往往是给代码的维护者看的，着重告述读者为什么这样写，如何修改，注意什么问题等

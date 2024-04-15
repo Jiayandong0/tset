@@ -12,21 +12,23 @@
     >
     > * 中文在线文档： [https://www.matools.com/api/java11](https://www.matools.com/api/java11)
 
-> * 1990sun公司启动绿色计划
-> * 1992创建oak(橡树)语言->java
-> * 1994 gosling参加硅谷大会演示java功能，震惊世界
-> * 1995sun正式发布java第1个版本
-> * 2009年，甲骨文公司宣布收购Sun
-> * 2011,发布java7
-> *   其它java版本发布详情&#x20;
->
->     [https://www.oracle.com/java/technologies/java-se-support-roadmap.html](https://www.oracle.com/java/technologies/java-se-support-roadmap.html)
 
+*   Java的发展
+
+    > * 1990sun公司启动绿色计划
+    > * 1992创建oak(橡树)语言->java
+    > * 1994 gosling参加硅谷大会演示java功能，震惊世界
+    > * 1995sun正式发布java第1个版本
+    > * 2009年，甲骨文公司宣布收购Sun
+    > * 2011,发布java7
+    > *   其它java版本发布详情&#x20;
+    >
+    >     [https://www.oracle.com/java/technologies/java-se-support-roadmap.html](https://www.oracle.com/java/technologies/java-se-support-roadmap.html)
 *   Java之父
 
     > * **Java之父是詹姆斯·高斯林(James Gosling)**
     >
-    > <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original">
+    > <img src=".gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
 
 ## 2.Java 技术体系平台
 
@@ -48,7 +50,7 @@
 >
 >
 >
->     <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+>     <figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 > 4. Java 语言是解释型的\[了解]&#x20;
 >    * 解释性语言：javascript,PHP, java&#x20;
 >    * 编译性语言: c / c++&#x20;
