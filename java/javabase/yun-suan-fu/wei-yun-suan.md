@@ -13,6 +13,6 @@
 > 4. 负数的补码=它的反码+1，负数的反码=负数的补码-1&#x20;
 > 5. 0的反码，补码都是0
 > 6. java没有无符号数，换言之，java中的数都是有符号的
-> 7. 在计算机运算的时候，都是以<mark style="color:yellow;">补码的方式</mark>来运算的.
-> 8. 当我们看运算结果的时候，要看他的<mark style="color:yellow;">原码</mark>（重点）
+> 7. 在计算机运算的时候，都是以<mark style="color:yellow;">**补码的方式**</mark>来运算的.
+> 8. 当我们看运算结果的时候，要看他的<mark style="color:yellow;">**原码**</mark>（重点）
 

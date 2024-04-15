@@ -17,7 +17,7 @@
 
 *   案例：请将0b1011转成十进制的数&#x20;
 
-    > 0b<mark style="color:blue;">1</mark><mark style="color:purple;">0</mark><mark style="color:red;">1</mark><mark style="color:yellow;">1</mark> = <mark style="color:blue;">1 \*</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">2的(1-1)次方</mark> + <mark style="color:red;">1\*</mark>_ <mark style="color:red;"></mark><mark style="color:red;">2的(2-1)次方</mark> + <mark style="color:purple;">0 \* 2的(3-1)次方</mark>+ <mark style="color:yellow;">1 \* 2的(4-1)次方法</mark>=<mark style="color:blue;">1</mark> + <mark style="color:purple;">2</mark> + <mark style="color:red;">0</mark> + <mark style="color:yellow;">8</mark> = 11
+    > 0b<mark style="color:blue;">1</mark><mark style="color:purple;">0</mark><mark style="color:red;">1</mark><mark style="color:yellow;">1</mark> = <mark style="color:blue;">1 \* 2的(1-1)次方</mark> + <mark style="color:red;">1\* 2的(2-1)次方</mark> + <mark style="color:purple;">0 \* 2的(3-1)次方</mark>+ <mark style="color:yellow;">1 \* 2的(4-1)次方法</mark>=<mark style="color:blue;">1</mark> + <mark style="color:purple;">2</mark> + <mark style="color:red;">0</mark> + <mark style="color:yellow;">8</mark> = 11
 
 ## 2.八进制转换成十进制
 
@@ -26,7 +26,7 @@
     > 从最低位（右边）开始，将每个位上的数提取出来，乘以8的（位数-1）次方，然后求和
 *   案例：请将0234转成十进制的数
 
-    > &#x20;0234 = 4 \* _8^0 + 3\*_ 8 ^ 1 + 2 \* 8 ^ 2 = 4 + 24 + 128 = 156
+    > &#x20;0234 = 4 \* 8^0 + 3\* 8 ^ 1 + 2 \* 8 ^ 2 = 4 + 24 + 128 = 156
 
 ## 3.十六进制转换成十进制
 

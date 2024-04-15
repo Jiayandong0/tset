@@ -4,11 +4,11 @@
 
 ## 1.Java 运行机制及运行过程&#x20;
 
-> &#x20;语言的特点：<mark style="color:yellow;">跨平台性</mark>&#x20;
+> &#x20;语言的特点：<mark style="color:yellow;">**跨平台性**</mark>&#x20;
 >
 >
 >
-> ## <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="original">
+> ## <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
 
 ## 2.Java核心机制-Java 虚拟机 \[JVM java virtual machine]&#x20;
 

@@ -25,9 +25,8 @@
 *   Java之父
 
     > * **Java之父是詹姆斯·高斯林(James Gosling)**
-    > *
     >
-    >     <figure><img src=".gitbook/assets/image (1).png" alt="" width="242"><figcaption></figcaption></figure>
+    > <img src=".gitbook/assets/image (1).png" alt="" data-size="original">
 
 ## 2.Java 技术体系平台
 
@@ -45,7 +44,7 @@
 
 > 1. Java 语言是面向对象的(<mark style="color:yellow;">**OOP**</mark>)
 > 2. Java 语言是<mark style="color:yellow;">**健壮的**</mark>。Java 的强类型机制、异常处理、垃圾的自动收集等是 Java 程序健壮性的重要保证
-> 3.  Java 语言是<mark style="color:yellow;">跨平台性的</mark>。\[即: 一个编译好的.class 文件可以在多个系统下运行，这种特性称为跨平台]
+> 3.  Java 语言是<mark style="color:yellow;">**跨平台性的**</mark>。\[即: 一个编译好的.class 文件可以在多个系统下运行，这种特性称为跨平台]
 >
 >
 >
