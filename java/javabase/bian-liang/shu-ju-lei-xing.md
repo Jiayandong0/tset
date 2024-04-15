@@ -2,7 +2,7 @@
 
 每一种数据都定义了明确的数据类型，在内存中分配了不同大小的内存空间(字节)
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 > 1. java 数据类型分为两大类 基本数据类型， 引用类型
 > 2. 基本数据类型有 8 中 数值型 \[byte , short , int , long , float ,double] char , boolean

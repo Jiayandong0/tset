@@ -8,7 +8,7 @@
 >
 >
 >
-> ## <img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
+> ## <img src="../../.gitbook/assets/image (2) (1).png" alt="" data-size="original">
 
 ## 2.Java核心机制-Java 虚拟机 \[JVM java virtual machine]&#x20;
 

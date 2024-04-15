@@ -26,7 +26,7 @@
 
     > * **Java之父是詹姆斯·高斯林(James Gosling)**
     >
-    > <img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+    > <img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 ## 2.Java 技术体系平台
 
@@ -48,7 +48,7 @@
 >
 >
 >
->     <figure><img src=".gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+>     <figure><img src=".gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 > 4. Java 语言是解释型的\[了解]&#x20;
 >    * 解释性语言：javascript,PHP, java&#x20;
 >    * 编译性语言: c / c++&#x20;
