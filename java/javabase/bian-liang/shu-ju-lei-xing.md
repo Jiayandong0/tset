@@ -2,7 +2,7 @@
 
 每一种数据都定义了明确的数据类型，在内存中分配了不同大小的内存空间(字节)
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 > 1. java 数据类型分为两大类 基本数据类型， 引用类型
 > 2. 基本数据类型有 8 中 数值型 \[byte , short , int , long , float ,double] char , boolean
@@ -41,7 +41,7 @@
     >     十进制数形式：5.12 512.0f.512(必须有小数点)
     >
     >     科学计数法形式：5.12e2\[5.12\*10的2次方] 5.12E-2\[5.12/10的2次方]
-    > 4. [浮点型使用细节：FloatDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/javacode/chapter03/FloatDetail.java)
+    > 4. [浮点型使用细节：FloatDetail.java](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter03/FloatDetail.java)
 
 ## 3.字符类型
 
