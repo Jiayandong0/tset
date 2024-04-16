@@ -10,6 +10,8 @@
 
 ## 1.整型类型
 
+[goto：IntDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter03/IntDetail.java)
+
 |      类型      | 占用存储空间 |                        范围                       |
 | :----------: | :----: | :---------------------------------------------: |
 |  byte \[字节]  |   1字节  |                    -128\~127                    |
@@ -18,6 +20,8 @@
 |  long \[长整型] |   8字节  |               -2\*\*63\~2\*\*63-1               |
 
 ## 2.浮点类型
+
+[goto：FloatDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter03/FloatDetail.java)
 
 *   基本介绍
 
@@ -45,6 +49,8 @@
 
 ## 3.字符类型
 
+[goto：CharDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter03/CharDetail.java)
+
 *   基本介绍&#x20;
 
     > 字符类型可以表示单个字符,字符类型是 char，char 是两个字节(可以存放汉字)，多个字符我们用字符串 String
@@ -68,6 +74,8 @@
     > * big5码（繁体中文，台湾，香港）
 
 ## 4.boolean类型
+
+[goto：Boolean01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter03/Boolean01.java)
 
 *   基本介绍
 

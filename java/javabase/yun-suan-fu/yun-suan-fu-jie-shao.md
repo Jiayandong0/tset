@@ -2,6 +2,8 @@
 
 ## 1.算术运算符
 
+[goto：ArithmeticOperator.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/ArithmeticOperator.java)
+
 *   基本介绍
 
     > 算术运算符是对数值类型的变量进行运算的，在 Java 程序中使用的非常多
@@ -17,9 +19,9 @@
     > 1. 对于除号"/"，它的整数除和小数除是有区别的：整数之间做除法时，只保留整数部分而舍弃小数部分。例如：int x=10/3,结果是3
     > 2. 当对一个数取模时，可以等价a%b=a-a/b\*b，这样我们可以看到取模的一个本质运算
 
-
-
 ## 2.关系运算符
+
+[goto：RelationalOperator.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/RelationalOperator.java)
 
 *   基本介绍
 
@@ -55,22 +57,22 @@
     > 6. a^b: 叫逻辑异或，当 a 和 b 不同时，则结果为 true, 否则为 false
 
 
-*   && 和 & 使用区别
+*   && 和 & 使用区别  [goto：LogicOperator01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/LogicOperator01.java)&#x20;
 
     > 1. &&短路与：如果第一个条件为 false，则第二个条件不会判断，最终结果为 false，效率高
     > 2. & 逻辑与：不管第一个条件是否为 false，第二个条件都要判断，效率低
     > 3. 开发中， 我们使用的基本是使用短路与&&, 效率高
 
 
-*   || 和 | 使用区别
+*   || 和 | 使用区别  [goto：LogicOperator02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/LogicOperator02.java)
 
     > 1. ||短路或：如果第一个条件为 true，则第二个条件不会判断，最终结果为 true，效率高
     > 2. \| 逻辑或：不管第一个条件是否为 true，第二个条件都要判断，效率低
     > 3. 开发中，我们基本使用 ||
 
-
-
 ## 4.赋值运算符
+
+[goto：AssignOperator.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/AssignOperator.java)
 
 *   基本赋值运算符
 
@@ -89,9 +91,9 @@
     > 3. 复合赋值运算符等价于下面的效果 比如：a+=3;等价于 a=a+3; 其他类推
     > 4. 复合赋值运算符会进行类型转换
 
-
-
 ## 5.三元运算符
+
+goto：[TernaryOperator.java](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter04/TernaryOperator.java) [TernaryOperatorDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/TernaryOperatorDetail.java)
 
 *   基本语法
 
@@ -103,9 +105,11 @@
     > 1. 如果条件表达式为 true，运算后的结果是表达式 1；
     > 2. 如果条件表达式为 false，运算后的结果是表达式 2；
 
-
-
 ## 6.位运算符
+
+goto：**Bitoperator.java Bitoperator02.java**
+
+
 
 * 一览表
 

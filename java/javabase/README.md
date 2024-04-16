@@ -38,7 +38,7 @@
 
 ## 4.Java代码规范
 
-goto：[java代码规范.docx](../../files/java/java-dai-ma-gui-fan.md)
+goto：[java代码规范.docx](broken-reference)
 
 > 1. 类、方法的注释，要以javadoc的方式来写&#x20;
 > 2. 非Java Doc的注释，往往是给代码的维护者看的，着重告述读者为什么这样写，如何修改，注意什么问题等

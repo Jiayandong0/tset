@@ -45,6 +45,3 @@
 * [Python](python.md)
 * [Linux](linux.md)
 * [Dos](dos.md)
-* [files](files/README.md)
-  * [java](files/java/README.md)
-    * [Java代码规范](files/java/java-dai-ma-gui-fan.md)
