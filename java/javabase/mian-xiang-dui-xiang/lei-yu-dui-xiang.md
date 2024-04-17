@@ -11,9 +11,11 @@
 
 *   对象在内存中存在形式
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 2.属性/成员变量/字段
+
+[goto：Object02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter07/Object02.java)
 
 *   基本介绍
 
@@ -26,8 +28,6 @@
     > 1. 属性的定义语法同变量，示例：访问修饰符 属性类型 属性名; 这里老师简单的介绍访问修饰符： 控制属性的访问范围 有四种访问修饰符 public, proctected, 默认, private ,后面我会详细介绍
     > 2. 属性的定义类型可以为任意类型，包含基本类型或引用类型
     > 3. 属性如果不赋值，有默认值，规则和数组一致。具体说: int 0，short 0, byte 0, long 0, float 0.0,double 0.0，char \u0000， boolean false，String null
-
-
 
 ## 3.类和对象的内存分配机制
 
