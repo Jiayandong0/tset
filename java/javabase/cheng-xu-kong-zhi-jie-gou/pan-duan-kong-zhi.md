@@ -17,6 +17,8 @@
 
 ### 1.单分支
 
+[goto：If01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter05/If01.java)
+
 *   基本语法
 
     {% code lineNumbers="true" %}
@@ -31,6 +33,8 @@
     <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2.双分支
+
+[goto：If02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter05/If02.java)
 
 *   基本语法
 
@@ -48,6 +52,8 @@
     <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
 ### 3.多分支
+
+[goto：If03.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter05/If03.java)
 
 *   基本语法
 
@@ -68,9 +74,9 @@
 
     <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-
-
 ### 4.嵌套分支
+
+[goto：NestedIf.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter05/NestedIf.java)
 
 *   基本介绍
 
@@ -90,6 +96,8 @@
     {% endcode %}
 
 ## 3.switch 分支结构
+
+[goto：Switch01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter05/Switch01.java)
 
 *   基本语法
 

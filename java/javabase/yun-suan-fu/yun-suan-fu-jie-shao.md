@@ -107,9 +107,7 @@ goto：[TernaryOperator.java](https://gitee.com/jia-yan\_dong/code/tree/master/J
 
 ## 6.位运算符
 
-goto：**Bitoperator.java Bitoperator02.java**
-
-
+goto：[**Bitoperator.java**](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/Bitoperator.java) [**Bitoperator02.java**](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/BitOperator02.java)
 
 * 一览表
 
@@ -133,5 +131,5 @@ goto：**Bitoperator.java Bitoperator02.java**
 
 
 
-    <table data-header-hidden><thead><tr><th width="123"></th><th></th></tr></thead><tbody><tr><td></td><td>.    ()    {}    ;</td></tr><tr><td>R -> L</td><td>++    --    ~    !(data type)</td></tr><tr><td>L -> R</td><td>*    /    %</td></tr><tr><td>L -> R</td><td>+    -</td></tr><tr><td>L -> R</td><td>&#x3C;&#x3C;    >>    >>>    位移</td></tr><tr><td>L -> R</td><td>&#x3C;    >    &#x3C;=    >=    instanceof</td></tr><tr><td>L -> R</td><td>==    !=</td></tr><tr><td>L -> R</td><td>&#x26;    &#x26;&#x26;    |    ||    </td></tr><tr><td>L -> R</td><td>?    :</td></tr><tr><td>R -> L</td><td>=    *=    /=    %=    +=    -=    &#x3C;&#x3C;=    >>=    >>>=    &#x26;=    ^=    |=</td></tr></tbody></table>
+    <table data-header-hidden><thead><tr><th width="123">执行顺序</th><th>符号</th></tr></thead><tbody><tr><td></td><td>.    ()    {}    ;</td></tr><tr><td>R -> L</td><td>++    --    ~    !(data type)</td></tr><tr><td>L -> R</td><td>*    /    %</td></tr><tr><td>L -> R</td><td>+    -</td></tr><tr><td>L -> R</td><td>&#x3C;&#x3C;    >>    >>>    位移</td></tr><tr><td>L -> R</td><td>&#x3C;    >    &#x3C;=    >=    instanceof</td></tr><tr><td>L -> R</td><td>==    !=</td></tr><tr><td>L -> R</td><td>&#x26;    &#x26;&#x26;    |    ||    </td></tr><tr><td>L -> R</td><td>?    :</td></tr><tr><td>R -> L</td><td>=    *=    /=    %=    +=    -=    &#x3C;&#x3C;=    >>=    >>>=    &#x26;=    ^=    |=</td></tr></tbody></table>
 

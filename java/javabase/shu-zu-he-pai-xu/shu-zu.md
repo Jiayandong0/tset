@@ -4,21 +4,28 @@
 
 *   基本介绍
 
+    [goto：Array01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter06/Array01.java)
+
     > 数组可以存放多个同一类型的数据。数组也是一种数据类型，是引用类型。 即：数(数据)组(一组)就是一组数据
 
 
-* 使用
-  *   方式一-动态初始化
+*   使用
 
-      > int a\[]  = new int \[5];
+    [goto：Array02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter06/Array02.java)
+
+    *   方式一-动态初始化
+
+        > int a\[]  = new int \[5];
 
 
-  *   方式二-静态初始化
+    *   方式二-静态初始化
 
-      > int a\[]  = {1,2,3,4,5};
+        > int a\[]  = {1,2,3,4,5};
 
 
 *   数组使用注意事项和细节
+
+    [goto：ArrayDetail.j ava](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter06/ArrayDetail.java)
 
     > 1. 数组是多个相同类型数据的组合，实现对这些数据的统一管理
     > 2. 数组中的元素可以是任何数据类型，包括基本类型和引用类型，但是不能混用

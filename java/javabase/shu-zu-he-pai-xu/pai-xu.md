@@ -16,7 +16,9 @@
 
 ### 3.冒泡排序法
 
-*   介绍 [goto:BubbleSort.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter06/BubbleSort.java)
+*   介绍&#x20;
+
+    [goto:BubbleSort.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter06/BubbleSort.java)
 
     > 冒泡排序（Bubble Sorting）的基本思想是：通过对待排序序列从后向前（从下标较大的元素开始），依次比较相邻元素 的值，若发现逆序则交换，使值较大的元素逐渐从前移向后部，就象水底下的气泡一样逐渐向上冒
 *   代码示例
