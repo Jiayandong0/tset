@@ -11,7 +11,7 @@
 
 *   对象在内存中存在形式
 
-    <figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 2.属性/成员变量/字段
 
