@@ -1,5 +1,7 @@
 # 面向对象编程三大特征
 
+## 1.封装
+
 *   基本介绍
 
     [goto：Encapsulation01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/encap/Encapsulation01.java)
@@ -85,20 +87,55 @@
 
 ## 3.多态
 
+### 1.多态的介绍
+
 *   基本介绍
 
-    [goto：.java](mian-xiang-dui-xiang-bian-cheng-san-da-te-zheng.md#id-1.-cheng-yuan-fang-fa)
+    [goto：PloyMethod.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/PolyMethod.java)
 
-    > 1.
+    > 方法或对象具有多种形态。是面向对象的第三大特征，多态是建立在封装和继承基础之上的
 
 
-*   xx
+*   对象的多态
 
-    > 1. 1
+    [goto：PloyObject.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/objectpoly\_/PolyObject.java)
+
+    > 1. 一个对象的编译类型和运行类型可以不一致
+    > 2. 编译类型在定义对象时，就确定了，不能改变
+    > 3. 运行类型是可以变化的
+    > 4. 编译类型看定义时=号的左边，运行类型看=号的右边
 
 
 *   注意事项和使用细节
 
-    [goto：.java](mian-xiang-dui-xiang-bian-cheng-san-da-te-zheng.md#id-6.-zuo-yong-yu)
+    [goto：PolyDetail.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/detail\_/PolyDetail.java)
 
-    > 1. 1
+    > 1. 多态的前提是：两个对象（类）存在继承关系多态的向上转型
+    > 2. 多态的向上转型
+    >    1. 本质：父类的引用指向了子类的对象
+    >    2. 语法：父类类型  引用名 = new 子类类型();
+    >    3. 特点：编译类型看左边，运行类型看右边。可以调用父类中的所有成员（需遵守访问权限），不能调用子类中特有成员;最终运行效果看子类的具体实现！
+    > 3. 多态向下转型
+    >    1. 语法：子类类型 引用名=（子类类型）父类引用;
+    >    2. 只能强转父类的引用，不能强转父类的对象
+    >    3. 要求父类的引用必须指向的是当前目标类型的对象
+    >    4. 当向下转型后，可以调用子类类型中所有的成员
+    > 4. 属性没有重写之说！属性的值看编译类型 [goto：PolyDetail02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/detail\_/PolyDetail02.java)
+    > 5. instanceOf 比较操作符，用于判断对象的运行类型是否为 XX 类型或 XX 类型的子类型 [goto：PolyDetail03.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/detail\_/PolyDetail03.java)
+
+
+*   多态的应用
+
+    [goto：PloyArray.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/polyar\_/PloyArray.java)
+
+    > 1. 数组的定义类型为父类类型，里面保存的实际元素类型为子类类型&#x20;
+    > 2. 应用实例:现有一个继承结构如下：要求创建 1 个 Person 对象、2 个 Student 对象和 2 个 Teacher 对象, 统一放在数组 中，并调用每个对象
+
+### 2.java 的动态绑定机制
+
+*   基本介绍
+
+    [goto：DynamicBinding.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/poly\_/dynamic\_/DynamicBinding.java)
+
+    > 1. 当调用对象方法的时候，<mark style="color:yellow;">该方法会和该对象的内存地址/运行类型绑定</mark>
+    > 2. 当调用对象属性时，<mark style="color:yellow;">没有动态绑定机制</mark>，哪里声明，那里使用
