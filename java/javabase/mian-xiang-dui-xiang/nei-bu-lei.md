@@ -1,41 +1,46 @@
 # 内部类
 
-## 1.toString
+## 1.
 
 *   基本介绍
 
-    [goto：ToString.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/object\_/ToString.java)
+    goto：.java
 
     > 1.
 
 
-*   对象的多态
+*
 
-    > 1. 1
-
-
-*   注意事项和使用细节
-
-    [goto：.java](nei-bu-lei.md#id-6.-zuo-yong-yu)
-
-    > 1. 1
-
-## 2.toString
-
-*   基本介绍
-
-    [goto：ToString.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/object\_/ToString.java)
+    goto：.java
 
     > 1.
 
 
-*   对象的多态
+*   注意事项和使用细节
 
-    > 1. 1
+    goto：.java
+
+    > 1.
+
+## 2.
+
+*   基本介绍
+
+    goto：.java
+
+    > 1.
+
+
+*
+
+    goto：.java
+
+    > 1.
 
 
 *   注意事项和使用细节
 
-    [goto：.java](nei-bu-lei.md#id-6.-zuo-yong-yu)
+    goto：.java
 
-    > 1. 1
+    > 1.
+

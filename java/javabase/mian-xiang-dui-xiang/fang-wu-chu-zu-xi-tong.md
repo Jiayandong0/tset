@@ -1,10 +1,14 @@
 # 房屋出租系统
 
-## 1.项目需求说明
+## 1.落地实现
+
+[goto：HouseRentApp.java](https://gitee.com/-/ide/project/jia-yan\_dong/code/edit/master/-/Java/javacode/chapter08/src/com/hspedu/houserent/HouseRentApp.java)
+
+## 2.项目需求说明
 
 > 实现基于文本界面的《房屋出租软件》。 能够实现对房屋信息的添加、修改和删除（用数组实现），并能够打印房屋明细表
 
-## 2.界面
+## 3.界面
 
 *   主菜单
 
@@ -36,12 +40,8 @@
 
     <figure><img src="../../../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## 3.设计
+## 4.设计
 
 > 项目设计-程序框架图 (分层模式=>当软件比较复杂，需要模式管理)
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
-
-## 3.落地实现
-
-[goto：HouseRentApp.java](https://gitee.com/-/ide/project/jia-yan\_dong/code/edit/master/-/Java/javacode/chapter08/src/com/hspedu/houserent/HouseRentApp.java)
