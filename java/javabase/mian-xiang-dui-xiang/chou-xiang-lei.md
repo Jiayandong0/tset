@@ -14,7 +14,7 @@
 
 *   注意事项和使用细节
 
-    [goto：AbstractDetail01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter10/src/com/hspedu/abstract\_/AbstractDetail01.java) [goto：AbstractDetail02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter10/src/com/hspedu/abstract\_/AbstractDetail01.java)
+    goto：[AbstractDetail01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter10/src/com/hspedu/abstract\_/AbstractDetail01.java) [AbstractDetail02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter10/src/com/hspedu/abstract\_/AbstractDetail01.java)
 
     > 1. 抽象类不能被实例化
     > 2. 抽象类不一定要包含abstract方法。也就是说，抽象类可以没有abstract方法
