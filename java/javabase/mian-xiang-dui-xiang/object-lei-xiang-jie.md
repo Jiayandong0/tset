@@ -1,5 +1,7 @@
 # Object类详解
 
+[goto：object\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter08/src/com/hspedu/object\_)
+
 ## 1.equals
 
 *   \==和 equals 的对比

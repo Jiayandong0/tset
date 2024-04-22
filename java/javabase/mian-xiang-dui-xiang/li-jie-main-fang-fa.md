@@ -1,5 +1,7 @@
 # 理解main方法
 
+[goto：main\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/main\_)
+
 *   基本介绍
 
     > 1. main方法时虚拟机调用&#x20;

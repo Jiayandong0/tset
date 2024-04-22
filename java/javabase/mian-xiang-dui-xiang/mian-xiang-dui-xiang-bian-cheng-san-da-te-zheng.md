@@ -2,6 +2,8 @@
 
 ## 1.封装
 
+[goto：encap](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter08/src/com/hspedu/encap)
+
 *   基本介绍
 
     [goto：Encapsulation01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/encap/Encapsulation01.java)
@@ -16,6 +18,8 @@
     > 3. 提供一个公共的(public)get方法，用于获取属性的值&#x20;
 
 ## 2.继承
+
+[goto：extend\_](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter08/src/com/hspedu/extend\_)
 
 *   基本介绍
 
@@ -86,6 +90,8 @@
             > 3. 子类方法不能缩小父类方法的访问权限
 
 ## 3.多态
+
+[goto：poly\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter08/src/com/hspedu/poly\_)
 
 ### 1.多态的介绍
 

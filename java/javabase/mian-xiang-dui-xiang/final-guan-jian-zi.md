@@ -1,5 +1,7 @@
 # final关键字
 
+[goto：final\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/final\_)
+
 *   基本介绍
 
     [goto：Final01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter10/src/com/hspedu/final\_/Final01.java)

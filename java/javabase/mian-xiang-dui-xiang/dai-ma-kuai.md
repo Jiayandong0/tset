@@ -1,5 +1,7 @@
 # 代码块
 
+[goto：codeblock\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/codeblock\_)
+
 *   基本介绍
 
     > 1. 代码化块又称为<mark style="color:yellow;">**初始化块**</mark>，属于类中的成员\[即是类的一部分]，类似于方法，将逻辑语句封装在方法体中，通过包围起来。

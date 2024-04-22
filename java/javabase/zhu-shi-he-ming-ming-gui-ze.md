@@ -18,7 +18,7 @@ javadoc -d 文件夹名 -author -version Demo.java
 
 [goto：java代码规范.docx](https://gitee.com/jia-yan\_dong/code/raw/master/Java/files/javacode/Java%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83.docx)
 
-> 1. 包名：多单词组成时所有字母都小写：aaa.bbb.ccc //比如 com.hsp.crm
+> 1. 包名：多单词组成时所有字母都小写：aaa.bbb.ccc ，比如 com.hsp.crm
 > 2. 类名、接口名：多单词组成时，所有单词的首字母大写：XxxYyyZzz \[大驼峰] 比如： TankShotGame
-> 3. 变量名、方法名：多单词组成时，第一个单词首字母小写，第二个单词开始每个单词首字母大写：xxxYyyZzz \[小 驼峰， 简称 驼峰法] 比如： tankShotGame
+> 3. 变量名、方法名：多单词组成时，第一个单词首字母小写，第二个单词开始每个单词首字母大写：xxxYyyZzz \[小驼峰， 简称 驼峰法] 比如： tankShotGame
 > 4. 常量名：所有字母都大写。多单词时每个单词用下划线连接：XXX\_YYY\_ZZZ 比如 ：定义一个所得税率 TAX\_RATE

@@ -1,5 +1,7 @@
 # 抽象类
 
+[goto：abstract\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/abstract\_)
+
 *   基本介绍
 
     [goto：Abstract01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter10/src/com/hspedu/abstract\_/Abstract01.java)

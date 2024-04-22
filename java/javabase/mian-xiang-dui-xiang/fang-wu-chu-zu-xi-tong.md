@@ -1,5 +1,7 @@
 # 房屋出租系统
 
+[goto：houserent](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter08/src/com/hspedu/houserent)
+
 ## 1.落地实现
 
 [goto：HouseRentApp.java](https://gitee.com/-/ide/project/jia-yan\_dong/code/edit/master/-/Java/javacode/chapter08/src/com/hspedu/houserent/HouseRentApp.java)

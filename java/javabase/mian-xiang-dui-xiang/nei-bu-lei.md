@@ -1,5 +1,7 @@
 # 内部类
 
+[goto：ineerclass](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/ineerclass)
+
 ## 1.
 
 *   基本介绍

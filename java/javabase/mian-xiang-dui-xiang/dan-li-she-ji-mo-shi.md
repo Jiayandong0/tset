@@ -1,5 +1,7 @@
 # 单例设计模式
 
+[goto：single\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/single\_)
+
 *   基本介绍
 
     > 1. 所谓类的单例设计模式，就是采取一定的方法保证在整个的软件系统中，对某个类只能存在一个对象实例，并且该类只提供一个取得其对象实例的方法&#x20;

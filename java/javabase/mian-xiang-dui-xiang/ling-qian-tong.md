@@ -1,5 +1,7 @@
 # 零钱通
 
+[goto：smallchange](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter08/src/com/hspedu/smallchange)
+
 * 版本
   *   非面向对象版本
 

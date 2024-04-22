@@ -1,5 +1,7 @@
 # 类变量和类方法
 
+[goto：static\_](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter10/src/com/hspedu/static\_)
+
 ## 1.类变量
 
 *   什么是类变量
