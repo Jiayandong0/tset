@@ -11,7 +11,7 @@
 
 
 
-    <figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 *   注意事项和使用细节

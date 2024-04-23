@@ -61,14 +61,18 @@
     > 6. a^b: 叫逻辑异或，当 a 和 b 不同时，则结果为 true, 否则为 false
 
 
-*   && 和 & 使用区别  [goto：LogicOperator01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/LogicOperator01.java)&#x20;
+*   && 和 & 使用区别
+
+    [goto：LogicOperator01.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/LogicOperator01.java)&#x20;
 
     > 1. &&短路与：如果第一个条件为 false，则第二个条件不会判断，最终结果为 false，效率高
     > 2. & 逻辑与：不管第一个条件是否为 false，第二个条件都要判断，效率低
     > 3. 开发中， 我们使用的基本是使用短路与&&, 效率高
 
 
-*   || 和 | 使用区别  [goto：LogicOperator02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/LogicOperator02.java)
+*   || 和 | 使用区别
+
+    [goto：LogicOperator02.java](https://gitee.com/jia-yan\_dong/code/blob/master/Java/javacode/chapter04/LogicOperator02.java)
 
     > 1. ||短路或：如果第一个条件为 true，则第二个条件不会判断，最终结果为 true，效率高
     > 2. \| 逻辑或：不管第一个条件是否为 true，第二个条件都要判断，效率低

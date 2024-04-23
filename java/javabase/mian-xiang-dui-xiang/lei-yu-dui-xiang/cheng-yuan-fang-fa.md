@@ -11,7 +11,7 @@
 
 *   方法的调用机制原理
 
-    <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 
 *   注意事项和使用细节
@@ -55,7 +55,7 @@
     > * 简单的说: 递归就是方法自己调用自己,每次调用时传入不同的变量.递归有助于编程者解决复杂问题,同时可以让代码变得简洁
     > *   内存解析图
     >
-    >     <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    >     <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 *   递归重要规则
 
     > 1. 执行一个方法时，就创建一个新的受保护的独立空间（栈空间

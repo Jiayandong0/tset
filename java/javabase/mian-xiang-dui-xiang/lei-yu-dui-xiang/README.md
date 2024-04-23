@@ -11,7 +11,7 @@
 
 *   对象在内存中存在形式
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## 2.属性/成员变量/字段
 
@@ -38,7 +38,7 @@
     > 3. 方法区：常量池(常量，比如字符串)， 类加载信息
     > 4.
     >
-    >     <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+    >     <figure><img src="../../../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 * Java 创建对象的流程简单分析
