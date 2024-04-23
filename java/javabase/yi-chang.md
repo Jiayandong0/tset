@@ -1,4 +1,6 @@
-# 多线程
+# 异常
+
+[goto：chapter12](https://gitee.com/jia-yan\_dong/code/tree/master/Java/javacode/chapter12)
 
 ## 1.
 
