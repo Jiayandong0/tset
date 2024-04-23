@@ -29,10 +29,10 @@
     >    2. @Target <mark style="color:yellow;">**指定注解可以在哪些地方使用**</mark>
     >       1. 用于修饰Annotation定义，用于指定被修饰的Annotation能用于修饰哪些程序元素
     >       2. @Target也包含一个名为value的成员变量。
-    >    3. @Documented 指定该注解是否会在 javadoc 体现
+    >    3. @Documented <mark style="color:yellow;">**指定该注解是否会在 javadoc 体现**</mark>
     >       1. 用于指定被该元Annotation修饰的Annotation类将被 javadoc工具提取成文档，即在生成文档时，可以看到该注解。
     >       2. 说明：定义为@Documented的注解必须设置Retention值为RUNTIME。
-    >    4. @Inherited 子类会继承父类注解
+    >    4. @Inherited <mark style="color:yellow;">**子类会继承父类注解**</mark>
     >       1. 被它修饰的Annotation将具有继承性如果某个类使用了被@Inherited修饰的Annotation,则其子类将自动具有该注解
     >       2. 说明：实际应用中，使用较少，了解即可。
     > 2. 元注解本身作用不大，原因希望看源码时，可以知道他是干什么.
