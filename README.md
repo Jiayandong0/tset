@@ -1,5 +1,7 @@
 # Java
 
+[goto：Java](https://gitee.com/jia-yan\_dong/code/tree/master/Java)
+
 ## 1.Java诞生的小故事
 
 * **Java官网：**[**https://www.java.com/zh-CN/**](https://www.java.com/zh-CN/)
